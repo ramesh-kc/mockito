@@ -3,6 +3,8 @@ package com.testing.mockito.service;
 import static org.junit.Assert.assertFalse;
 import static org.mockito.Mockito.doCallRealMethod;
 
+import com.testing.mockito.model.JobPosition;
+import com.testing.mockito.model.Person;
 import java.util.Optional;
 import org.junit.Before;
 import org.junit.Test;
